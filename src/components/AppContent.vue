@@ -53,7 +53,7 @@ const requestWeatherApi = () => {
     .catch((e) => {
       currentDay.value = null
       forecastDays.value = null
-      if (e.response.data.error.message) {
+      if (e.response?.data.error.message) {
         errorMessage.value = e.response.data.error.message
       } else {
         console.error(e)
