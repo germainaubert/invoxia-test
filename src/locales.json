@@ -1,0 +1,38 @@
+{
+  "en-US": {
+    "header": {
+      "title": "Weather forecast"
+    },
+    "content": {
+      "inputPlaceholder": "Search a city...",
+      "errorMissingData": "Error, data missing",
+      "temperature": "Temperature",
+      "humidity": "Humidity",
+      "precipitation": "Precipitation"
+    }
+  },
+  "fr": {
+    "header": {
+      "title": "Prédiction météo"
+    },
+    "content": {
+      "inputPlaceholder": "Rechercher une ville...",
+      "errorMissingData": "Erreur, données manquantes",
+      "temperature": "Température",
+      "humidity": "Humidité",
+      "precipitation": "Précipitation"
+    }
+  },
+  "fr-FR": {
+    "header": {
+      "title": "Prédiction météo"
+    },
+    "content": {
+      "inputPlaceholder": "Rechercher une ville...",
+      "errorMissingData": "Erreur, données manquantes",
+      "temperature": "Température",
+      "humidity": "Humidité",
+      "precipitation": "Précipitation"
+    }
+  }
+}
