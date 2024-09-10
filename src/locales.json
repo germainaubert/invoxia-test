@@ -22,17 +22,5 @@
       "humidity": "Humidité",
       "precipitation": "Précipitation"
     }
-  },
-  "fr-FR": {
-    "header": {
-      "title": "Prédiction météo"
-    },
-    "content": {
-      "inputPlaceholder": "Rechercher une ville...",
-      "errorMissingData": "Erreur, données manquantes",
-      "temperature": "Température",
-      "humidity": "Humidité",
-      "precipitation": "Précipitation"
-    }
   }
 }
